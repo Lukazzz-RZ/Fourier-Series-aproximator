@@ -14,7 +14,7 @@ Este proyecto aborda la resolución numérica de problemas relacionados con onda
 
 ### Gráficos:
 Se han representado las respuestas en frecuencia frente al número de armónicos para diferentes valores del cociente \(P/\Delta t\), mostrando cómo varían los resultados en función de los parámetros del sistema.
-
+![Respeusta en frecuencia para distintos parámetros Gaussianos](FreqResp.jpg)
 ---
 
 ## Desarrollo en serie de Fourier
