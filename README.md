@@ -40,7 +40,7 @@ El número de términos necesarios para una aproximación correcta es independie
 ---
 
 ## Ilustraciones
-
+![Aproximación por serie de Fourier](GaussianPulse.jpg)
 ### Ejemplo de pulsos gaussianos:
 1. Pulso gaussiano para \(P/\Delta t = 10\)
 2. Pulso gaussiano para \(P/\Delta t = 20\)
