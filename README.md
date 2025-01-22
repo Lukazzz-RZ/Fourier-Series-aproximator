@@ -13,9 +13,9 @@ Este proyecto aborda la resolución numérica de problemas relacionados con onda
 - En el caso de \(m = 0\), la respuesta en frecuencia está determinada únicamente por el coeficiente de reducción de anchura del medio (\(n\)).
 
 ### Gráficos:
+
 Se han representado las respuestas en frecuencia frente al número de armónicos para diferentes valores del cociente \(P/\Delta t\), mostrando cómo varían los resultados en función de los parámetros del sistema.
 ![Respeusta en frecuencia para distintos parámetros Gaussianos](FreqResp.jpg)
----
 
 ## Desarrollo en serie de Fourier
 
